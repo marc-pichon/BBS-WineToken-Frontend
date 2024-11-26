@@ -3,6 +3,8 @@
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom
 
+// bibliotheques requises pour les tests avec jest dans l'environnemlent node.js ou tourne l'appli react
+
 import '@testing-library/jest-dom';
 import { TextEncoder } from 'util';
 
