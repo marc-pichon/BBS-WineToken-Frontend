@@ -7,6 +7,7 @@ import abi from '../contract/WineNFTabi.js';
 // Configuration et connexion au provider
 //const provider = process.env.REACT_APP_WEB3_PROVIDER || 'https://mainnet.infura.io/v3/YOUR-PROJECT-ID';
 //
+//
 const provider =  'https://mainnet.infura.io/v3/d990668b388c431caa0cbbb817e7578a' || 'https://mainnet.infura.io/v3/YOUR-PROJECT-ID';
 
 //const provider = process.env.REACT_APP_WEB3_PROVIDER;
