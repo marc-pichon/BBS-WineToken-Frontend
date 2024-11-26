@@ -1,11 +1,9 @@
 # This workflow for winetoken (from https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp)
 
-name: bbs winetoken frontend ci/cd
+name: bbs pull frontend ci/cd
 
 
 on:
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
